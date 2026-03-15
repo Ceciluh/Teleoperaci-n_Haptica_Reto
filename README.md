@@ -27,6 +27,6 @@ ros2 run arm_bridge slave --master-ip 192.168.1.195
 
 | Tecla | Acción |
 |-------|--------|
-| W / S | +y / -y |
+| W / X | +y / -y |
 | A / D | -x / +x |
 | P | salir y guardar datos |
