@@ -690,7 +690,7 @@ def _main(slave_ip):
 
 def main(args=None):
     parser = argparse.ArgumentParser(description="Robot Maestro xArm6")
-    parser.add_argument("--slave-ip", default="192.168.1.226",
+    parser.add_argument("--slave-ip", default="192.168.1.195",
                         help="IP del PC esclavo")
     args = parser.parse_args()
     _main(args.slave_ip)
