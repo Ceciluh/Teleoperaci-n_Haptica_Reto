@@ -4,7 +4,7 @@
 
 const char* SSID      = "alfresi";
 const char* PASS      = "mora2025";
-const char* SLAVE_IP  = "192.168.1.226";
+const char* SLAVE_IP  = "192.168.1.195";
 const int   UDP_PORT  = 9003;
 
 const int DT_PIN  = 15;
