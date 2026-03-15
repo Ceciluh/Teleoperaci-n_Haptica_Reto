@@ -30,7 +30,7 @@ M1, M2, M3 = 1.5, 1.0, 0.5
 G_GRAV      = 9.81
 DT          = 0.01
 
-XARM_SLAVE_IP = "192.168.1.226"
+XARM_SLAVE_IP = "192.168.1.195"
 _SIM_RANGE    = 0.9
 _REAL_RANGE   = 630.0
 _SCALE        = _REAL_RANGE / _SIM_RANGE
